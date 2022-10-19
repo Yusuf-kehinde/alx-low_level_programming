@@ -7,6 +7,7 @@
  * Description: prints the date
  * @month: month in number format@day: day of month
  * @year: year
+ * @day: day
  * Return: void
  */
 
